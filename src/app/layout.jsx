@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,6 +14,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Frontend Mentor | QR code component",
   description: "Practica Frontend Mentor con un componente de código QR",
+  icons: {
+    icon: "/favicon-32x32.png",
+  },
 };
 
 export default function RootLayout({ children }) {
