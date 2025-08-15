@@ -16,14 +16,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Qr Component challenge with Next.js and Tailwind CSS](https://www.frontendmentor.io/solutions/qr-component-challenge-with-nextjs-and-tailwind-css-Q0o68-lygn)
+- Deploy URL: [Vercel](https://frontend-mentor-qr-component-pi.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - [Next.js](https://nextjs.org/) - React framework
-- [TailwindCSS] (https://tailwindcss.com/) - for styles
+- [TailwindCSS](https://tailwindcss.com/) - for styles
 - Flexbox
 
 ### What I learned
@@ -33,7 +34,7 @@ Since this challenge is really simple, what i learn more is to set up and config
 ### Useful resources
 
 - [Next.js](https://nextjs.org/) - Helped me to set up the proyect
-- [TailwindCSS] (https://tailwindcss.com/) - Helped me to set up the proyect and find specific styles that i needed.
+- [TailwindCSS](https://tailwindcss.com/) - Helped me to set up the proyect and find specific styles that i needed.
 
 ## Author
 
