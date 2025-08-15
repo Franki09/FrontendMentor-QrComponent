@@ -13,6 +13,9 @@ module.exports = {
         "slate-500": "hsl(216, 15%, 48%)",
         "slate-900": "hsl(218, 44%, 22%)",
       },
+      fontFamily: {
+        outfit: ["Outfit", "sans-serif"],
+      },
     },
   },
   plugins: [],
